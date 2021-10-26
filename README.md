@@ -2,10 +2,12 @@
 
 ### Competitive Programmer & Full stack developer.
 
-#### Connect with me:
+#### Connect with me
 
 [<img align="left"  width="22px" src="https://i.pinimg.com/564x/fa/47/aa/fa47aa4e863fafe703fc4c9b0dcb00a9.jpg"/>][linkedin]
 [<img align="left"  width="22px" src="https://i.pinimg.com/564x/ad/b5/ba/adb5ba9ab4015ef10641c87e9118ed83.jpg"/>][facebook]
+
+<br />
 
 #### Languages & tools
 
