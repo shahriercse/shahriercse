@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Fahim</h1>
 <h3 align="left">Competitive Programmer & Full stack developer.</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriercse&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriercse&label=Profile%20views&color=0e75b6&style=flat" alt="shahrier fahim" /> </p>
 
 <div style="margin-bottom: 30px;">
 <h3 align="left">Connect with me:</h3>
@@ -209,3 +209,5 @@
   </a>
 
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriercse&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
