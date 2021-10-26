@@ -1,16 +1,13 @@
-### Hi there, I'm Fahim. 👋
+## Hi there, I'm Fahim 👋
 
-## Competitive Programmer & Full stack developer.
+### Competitive Programmer & Full stack developer.
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left"  width="22px" src="https://i.pinimg.com/564x/fa/47/aa/fa47aa4e863fafe703fc4c9b0dcb00a9.jpg"/>][linkedin]
 [<img align="left"  width="22px" src="https://i.pinimg.com/564x/ad/b5/ba/adb5ba9ab4015ef10641c87e9118ed83.jpg"/>][facebook]
 
-[facebook]: https://www.facebook.com/shahrier.8206
-[linkedin]: https://www.linkedin.com/in/shahrier8270/
-
-### Languages & tools
+#### Languages & tools
 
 [<img align="left" width="22px" src="https://i.pinimg.com/564x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" />][icon_c]
 [<img align="left" width="22px" src="https://i.pinimg.com/564x/01/cd/e6/01cde6408e890599cb8b0aa118215c17.jpg" />][icon_c++]
@@ -51,3 +48,5 @@
 [icon_express]: https://expressjs.com/
 [icon_mongodb]: https://www.mongodb.com/
 [icon_graphql]: https://graphql.org/
+[facebook]: https://www.facebook.com/shahrier.8206
+[linkedin]: https://www.linkedin.com/in/shahrier8270/
