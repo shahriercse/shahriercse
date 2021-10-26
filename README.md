@@ -8,16 +8,16 @@
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
       alt="c"
-      width="40"
-      height="40"
+      width="30"
+      height="30"
     />
   </a>
   <a href="https://www.linkedin.com/in/shahrier8270/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="cplusplus"
-      width="40"
-      height="40"
+      width="30"
+      height="30"
     />
   </a>
 </p>
