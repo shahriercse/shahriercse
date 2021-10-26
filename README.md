@@ -1,6 +1,8 @@
 <h1 align="left">Hi there 👋, I'm Fahim</h1>
 <h3 align="left">Competitive Programmer & Full stack developer.</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriercse&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <div style="margin-bottom: 30px;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
