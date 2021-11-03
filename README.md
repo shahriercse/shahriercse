@@ -210,4 +210,8 @@
 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriercse&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Shahrier's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriercse&show_icons=true&theme=tokyonight)
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriercse&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriercse&hide=contribs,prs) -->
